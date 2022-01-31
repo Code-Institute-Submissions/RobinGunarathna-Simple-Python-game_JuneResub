@@ -6,3 +6,4 @@ I'll have everything done for my third attempt!
 Any feedback would be appriciated on how i can improve this or if i just should do a completly different project!
 
 # Thank you to who ever is correcting this and I am truly sorry!
+I will do everything correctly on my third attempt
