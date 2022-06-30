@@ -77,7 +77,17 @@ def display_hangman(attempt_number):
 if __name__ == "__main__":
     word = get_word()
     play(word)
+    keep_playing = True
 
-    while input("play again? (Y/N): \n").upper() == "Y":
-        word = get_word()
-        play(word)
+    while keep_playing:
+        selected_option = input("play again? (Y/N): \n").upper()
+        if selected_option == "Y":
+            word = get_word()
+            play(word)
+
+        elif selected_option == "N":
+            print("Game exiting.")
+            keep_playing = False
+
+        else:
+            print(f"{selected_option} is invalid, please input Y or N to continue.")
