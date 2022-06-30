@@ -30,7 +30,7 @@ def play(word):
     while not guessed and attempts < 6:
         current_attempt = input("Guess a letter or a word: \n").upper()
         if current_attempt.isdigit():
-            print(f"Numbers aren't allowed, try again.")
+            warnings.warn(f"Numbers aren't allowed, try again.")
             continue
 
         if not is_word(current_attempt):
