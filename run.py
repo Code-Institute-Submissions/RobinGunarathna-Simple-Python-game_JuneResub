@@ -1,4 +1,5 @@
 import random
+import warnings
 from constants import stage_dictionary as stages, word_list
 
 def get_word():
