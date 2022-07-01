@@ -37,3 +37,16 @@ Really hope I still pass done everything I can think off.
 only source I had was this Youtube video : https://www.youtube.com/watch?v=m4nEnsavl6w.
 The animiation in the constants.py file is taken from this youtube video.
 Had to change a lot to meet project criterias.
+
+## Deployment
+
+Was simple to deploy to heroku.
+1. Pressed on Create new app and followed the steps.
+2. Went to the deploy section immediately because I don't need config vars.
+3. Chose Github as deployment method.
+4. I searched for your github repository I wanted to connect and pressed on connect.
+5. Last step was to press on deploy branch and my game was deployed.
+
+## Adressing assessor feedback
+"Version control is not taken into consideration with the use of Git, or large chunks of code were committed together instead of properly separated into more manageable pushes."
+I could not get it to work at first so I got 48 hours to get a working deployed link but I only got to use 1 commit to do so. I had no choice I'm sorry. Hopefully its better this time!
