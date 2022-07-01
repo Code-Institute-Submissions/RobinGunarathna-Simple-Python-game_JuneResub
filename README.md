@@ -1,9 +1,12 @@
 # Just a simple Hangman game!
-I'm not gonna be able to get this to work before the deadline. :(
-I cant get the code to work right now there is a lot of mistakes i have to correct.
-I'm turning this in like this only because i have to so I can get my third attempt and i'm sorry to whoever is correcting this!
-I'll have everything done for my third attempt!
-Any feedback would be appriciated on how i can improve this or if i just should do a completly different project!
 
-# Thank you to who ever is correcting this and I am truly sorry!
-I will do everything correctly on my third attempt
+## Rules And how to play
+1. You get 6 failed guesses before you have to try again.
+2. When you are done you can press "Y" to play again and "N" to quit.
+3. Just press on the letter you want to use.
+4. Only letters no numbers.
+
+## How it should work!
+
+If you select a letter that is in the word the letter saves and the hangman does not animate.
+But if you guess the wrong letter 
