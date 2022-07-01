@@ -17,7 +17,7 @@ But if you guess the wrong letter it tells you that you selected the wromg lette
 ## Testing
 
 I've done manual testing to see if everything works correctly.
-I tried failing on purpose to see if it tells me that I either put the wrong letter or that I've use that letter correctly and I check to see if it animates accordingly.
+I tried failing on purpose to see if it tells me that I either put the wrong letter or that I've used that letter allready and I check to see if it animates accordingly.
 I tried to Win to See if i does not animate when i guess the correct letters.
 I had issues that I wouldn't have noticed without the manual testing for example it could animate when I guessed the correct letter and not animate when guessing the wrong letter but still count as a try. 
 All these mistakes/bugs should be fixed.
