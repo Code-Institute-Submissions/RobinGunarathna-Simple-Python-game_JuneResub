@@ -25,8 +25,12 @@ All these mistakes/bugs should be fixed.
 I have a few Errors according to http://pep8online.com/.
 These are the errors:
 
+![image](https://user-images.githubusercontent.com/95103308/176815438-2c9c3a71-6be9-41c0-9f91-aab804bc8a70.png)
 
-
+I tried "\" like it sais in the feedback from the assessor but when i did that i got another error.
+I have googled it and tried to fix this in other ways but when i did that there was allways another problem that accurd.
+Same for the linter errors if I changed anything the code broke in some way.
+Really hope I still pass done everything I can think off.
 
 ## Source
 
