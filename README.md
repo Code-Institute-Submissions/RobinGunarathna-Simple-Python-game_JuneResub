@@ -1,5 +1,6 @@
 # Just a simple Hangman game!
 A simple game to kill time with!
+Game link: https://simple-hangman-game.herokuapp.com/
 
 ## Rules And how to play
 1. You get 6 failed guesses before you have to try again.
